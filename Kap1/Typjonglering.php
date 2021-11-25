@@ -1,0 +1,10 @@
+<?php
+$a="1";
+var_dump($a);
+$a=$a*2;
+var_dump($a);
+$a=$a*3.14;
+var_dump($a);
+$a=$a."cm";
+var_dump($a);
+?>
