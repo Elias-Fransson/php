@@ -1,0 +1,31 @@
+<?php
+declare strict_types_1
+// Öppnar citat.txt anteckningsfilen
+$file = file('citat.txt');
+
+?>
+
+
+<!DOCTYPE HTML>
+<html lang="sv">
+	<head>
+		<meta charset="UTF-8">
+		<title>Random citat</title>
+	</head>
+	<body>
+		<h1>Citat.txt</h1>
+
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
